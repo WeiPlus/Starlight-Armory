@@ -1,5 +1,5 @@
 ---
-name: Bug Report / Feature Request
+name: Bug Report / Feature Request(English)
 about: Report an issue or suggest a feature for Starlight Armory
 title: ''
 labels: ''
