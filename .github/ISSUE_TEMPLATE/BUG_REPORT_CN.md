@@ -1,5 +1,5 @@
 ---
-name: Bug 反馈 / 功能建议
+name: Bug 反馈 / 功能建议(中文)
 about: 提交星辉武装的问题或建议
 title: ''
 labels: ''
